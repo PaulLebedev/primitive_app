@@ -1,0 +1,25 @@
+{
+  "name": "primitive_app",
+  "version": "0.0.1",
+  "description": "Primitive node.js-application for studying express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PaulLebedev/primitive_app.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "Paul Lebedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulLebedev/primitive_app/issues"
+  },
+  "dependencies": {
+    "express": "~4.11.0"
+  }
+}
